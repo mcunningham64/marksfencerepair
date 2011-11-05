@@ -1,0 +1,20 @@
+#featured { width:697px; padding-left:242px; position:relative; height:355px; overflow:hidden; background:#545c54; border:1px solid #e5eaee; -moz-border-radius:3px; -webkit-border-radius:3px; -khtml-border-radius:3px; border-radius:3px; /*behavior: url(/resources/store/scripts/PIE.htc);*/ }
+#featured ul.ui-tabs-nav { position:absolute; top:169px; left:0; list-style:none; padding:0; margin:0; width:242px; height:248px; overflow:hidden; overflow-x:hidden; }
+#featured ul.ui-tabs-nav li { padding:0; margin:0; font-size:12px; color:#b8917c;}
+#featured ul.ui-tabs-nav li h3{font: normal 17px 'MuseoSans500', sans-serif; margin: 0; padding:0; color: white; border: none; }
+#featured ul.ui-tabs-nav li h3 img {margin-right:8px;margin-bottom:-8px;}
+#featured ul.ui-tabs-nav li.ui-tabs-selected a h3{ color: #545c54; }
+#featured ul.ui-tabs-nav li a:hover h3 {color:#b8917c;}
+#featured li.ui-tabs-nav-item a { display:block; height:42px; text-decoration:none; color:#333; outline:none; margin:0; padding:10px;}
+#featured ul.ui-tabs-nav li.ui-tabs-selected a{ background:#e9e7cf;}
+#featured ul.ui-tabs-nav li.ui-tabs-selected a .hpArrow{width: 15px; height: 62px; position: relative; top: -47px; left: 221px;}
+#featured .ui-tabs-panel{ width:700px; height:355px; position:relative; }
+#featured .ui-tabs-panel .info{ position:absolute; bottom:0; left:0; height:70px;}
+#featured .ui-tabs-panel .info a.hideshow{ position:absolute; font-size:11px; font-family:Verdana; color:#f0f0f0; top:-20px; line-height:20px; margin:0; outline:none; background:#b8917c; }
+#featured .ui-tabs-panel a{ border:none; }
+#featured .info h2{ font-size:1.2em; font-family:Georgia, serif; color:#fff; padding:5px; margin:0; font-weight:normal; overflow:hidden; }
+#featured .info p{ margin:0 5px; font-family:Verdana; font-size:11px; line-height:15px; color:#f0f0f0; }
+#featured .info a{ text-decoration:none; color:#fff; }
+#featured .info a:hover{ text-decoration:underline; }
+#featured .ui-tabs-hide{ display:none; }
+#featured ul.ui-tabs-nav li a h3 {margin-bottom:10px;}
