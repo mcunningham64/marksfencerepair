@@ -13,8 +13,8 @@ $(document).ready(function(){
     );  
 	
 	$("#estimates").fancybox({
-					'width'				: '60%',
-					'height'			: '80%',
+					'width'				: '52%',
+					'height'			: '85%',
 					'autoScale'			: false,
 					'transitionIn'		: 'none',
 					'transitionOut'		: 'none',
