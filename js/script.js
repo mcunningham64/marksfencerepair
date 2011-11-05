@@ -21,8 +21,8 @@ $(document).ready(function(){
 					'type'				: 'iframe'
 				});
 	$(".contact").fancybox({
-					'width'				: '33%',
-					'height'			: '57%',
+					'width'				: '52%',
+					'height'			: '85%',
 					'autoScale'			: false,
 					'transitionIn'		: 'none',
 					'transitionOut'		: 'none',
