@@ -31,4 +31,10 @@ $(document).ready(function(){
 					'type'				: 'iframe'
 				});
 	$("#email").html('<a href="mailto:'+ mMe + yMe +'?subject=Mark&apos;s Fence Website">Mike</a>');
+	
+	Galleria.loadTheme('js/themes/classic/galleria.classic.min.js');
+            $("#gallery").galleria({
+                width: 940,
+                height: 500
+            });
 });

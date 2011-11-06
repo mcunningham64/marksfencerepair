@@ -72,7 +72,7 @@ header {height: 132px;}
 	text-decoration: none;
 	color: #545c54;
 }
-.nav ul li a:hover {
+.nav ul li a:hover, .selected {
 	text-decoration: none;
 	color: #b8917c;
 }
