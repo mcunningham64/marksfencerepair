@@ -61,7 +61,7 @@ header {height: 132px;}
 .head-container {height: 92px; padding:14px 0 14px 25px;margin:0;}
 .nav {height: 30px; background:#e9e7cf; position:absolute; top:102px; font: normal 12px/12px 'Museo500'; color: #545c54;}
 .nav ul {
-	margin-left:230px;
+	margin-left:255px;
 	margin-top: 9px;
 }
 .nav ul li {

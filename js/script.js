@@ -11,13 +11,24 @@ $(document).ready(function(){
             $("#featured").tabs("rotate",7000,true);  
         }  
     );  
-	
-	$("#contact").fancybox({
-					'width'				: '52%',
-					'height'			: '85%',
+
+	$(".contact").fancybox({
+					'scrolling'			: 'auto',
+					'width'				: '25%',
+					'height'			: '87%',
 					'autoScale'			: false,
 					'transitionIn'		: 'none',
 					'transitionOut'		: 'none',
+					'type'				: 'iframe'
+				});
+	$("#estimates").fancybox({
+					'scrolling'			: 'auto',
+					'width'				: '25%',
+					'height'			: '87%',
+					'autoScale'			: false,
+					'transitionIn'		: 'none',
+					'transitionOut'		: 'none',
+					'type'				: 'iframe'
 				});
 	$("#email").html('<a href="mailto:'+ mMe + yMe +'?subject=Mark&apos;s Fence Website">Mike</a>');
 });
